@@ -1,0 +1,116 @@
+section.main-contents {
+    margin-top: 828px;
+}
+
+h1 {
+	font-size: 3rem;
+}
+h2.section-header {
+	font-size: 2.7rem;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2.7rem;
+}
+
+p.top-text {
+	margin-top: 19px;
+    text-align: center;
+}
+
+
+
+
+
+
+/*//////////header//////*/
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.wapper-h1, .wapper-taxt, .wapper-taxt-mobile-down, .wapper-link, .wapper-link-mobile-down {
+  color: white;
+  font-weight: bolder;
+}
+
+.header-text {
+	margin-top: 111px;
+	margin-left: 165px;
+}
+
+/*/////////main///////*/
+
+.main-contants-footer-one {
+	padding: 55px;
+}
+
+
+.main-contants-footer {
+	padding: 55px;
+}
+
+.order-md-2 {
+	padding: 133px;
+}
+
+.order-md-3 {
+	padding: 268px;
+}
+
+.order-md-6 {
+	padding: 140px;
+}
+
+.main-contants-footer-for {
+	padding: 141px;
+}
+
+
+
+
+
+
+
+
+
+/*////////form/////*/
+
+.main-form {
+	margin-top: 97px;
+    margin-bottom: 52px;
+}
+
+
+
+
+.main-form-in {
+	padding: 47px; 
+}
+
+.form-text {
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 4px;
+
+}
+
+.form-text2 {
+	text-align: center
+}
+
+.form-link {
+	text-align: center;
+}
+
+.form-footer {
+  position: relative;
+  left: 414px
+}
+
+.brand-logo {
+	height: 17px;
+    max-width: 22px;
+    margin: 44px;
+}

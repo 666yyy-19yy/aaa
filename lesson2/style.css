@@ -1,0 +1,155 @@
+
+html {
+  font-size: 16px;
+}
+
+body {
+  width: 100%;
+}
+
+.container {
+  max-width: 1366px;
+}
+
+#main-cotents-one {
+  max-width: 1672px;
+}
+
+/*///header////////*/
+
+.jumbotron {
+  background-color: transparent;
+}
+
+
+
+
+
+#bg-video{
+    position: absolute; /*positionプロパティを指定*/
+    top: 0;
+    z-index: -100; /*z-indexプロパティを指定*/
+    min-width: 100%;
+}
+
+
+.form-wapper {
+  padding: 1.8rem .75rem;
+  max-width: 413px;
+}
+
+.navbar-brand {
+    color: #eef1f3;
+}
+
+.nav-link {
+  color: #eef1f3; 
+}
+
+/*/////////main///////*/
+
+.row {
+  margin: 13px 0px;
+}
+
+.order-md-2 {
+  background-color: whitesmoke;
+  
+}
+
+
+.order-md-3 {
+  background-color: #117a8b;
+  color: white;
+}
+.order-md-3-link {
+  color: white;
+}
+
+.order-md-6 {
+  background-color: whitesmoke;
+}
+
+.main-contants-img {
+  max-width: 100%;
+}
+
+#main-contents-two {
+  background-color: #117a8b;
+  height: 300px; 
+  margin: 100px 0px; 
+}
+
+
+
+.main-contants-footer-text {
+  color: white;
+}
+
+.main-contants-footer-link {
+  color: white;
+}
+
+.main-contants-footer-two {
+  background-color: whitesmoke;
+}
+
+p.main-contants-footer-two-text {
+    font-size: 1.5rem;
+}
+
+.main-contants-footer-two-name {
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+/*////////form/////*/
+
+.main-form {
+  background-color: whitesmoke;
+  height: 408px;
+}
+
+.form-footer {
+  padding: 1.8rem .75rem;
+  max-width: 412px;
+}
+
+.form-header {
+  border-bottom: solid 1px #8c8181;
+  margin-bottom: 26px;
+  padding-bottom: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+/*//////////footer///////*/
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+
+
+
+
+
+.media-section {
+  padding: 0;
+}
+
+.media-item {
+  margin: 7px;
+}
+
+.media-logo {
+  height: 19px;
+}

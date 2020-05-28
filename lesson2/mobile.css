@@ -1,0 +1,176 @@
+
+.wapper-h1, .wapper-link {
+	color: white;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+section.main-contents {
+	margin-top: 280px;
+}
+
+section.mobile-down {
+	margin-top: 76px;
+}
+
+h2 {
+	font-size: 1.5rem;
+}
+
+p {
+	font-size: 0.9rem
+}
+
+
+
+
+
+/*/////////main///////*/
+
+
+
+.jumbotron {
+	background: url('img/comfort_home.59ad50c8.jpg') no-repeat center;
+	background-size: cover;
+	margin-top: -57px;
+	height: 555px;
+}
+
+.wapper-link-mobile-down {
+	color: 
+}
+
+.wapper-taxt-mobile-down {
+	color:black;
+	font-weight: normal;
+}
+
+.order-md-2  {
+	background-color: transparent;
+	height: 353px;
+    padding: 60px;
+    margin-top: -60px;
+    margin-bottom: 49px;
+}
+
+#main-cotents-one {
+	border-top: solid 1px whitesmoke;
+    padding-top: 35px;
+}
+
+.order-md-3 {
+	height: 353px;
+    padding: 60px;
+}
+
+.order-md-4 {
+	padding-top: 15px;
+}
+
+.order-md-6 {
+	background-color: transparent;
+	height: 353px;
+    padding: 60px;
+}
+
+#main-contents-two {
+	height: 523px;
+    margin: 0 auto;
+}
+.main-contants-footer-one {
+	padding: 35px;
+	border-bottom: solid 1px white;
+}
+
+.main-contants-footer {
+	padding: 35px;
+}
+
+.main-contants-footer-three {
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+#main-contents-three {
+	padding: 0;
+}
+
+.main-contants-footer-for {
+	background-color: whitesmoke;
+    height: 319px;
+    padding: 66px;
+}
+
+
+p.main-contants-footer-two-text {
+	font-size: 0.9rem;
+}
+
+
+
+
+
+.header-text {
+	margin-top: 362px;
+}
+
+
+#bg-video {
+	display: none;
+	position: cover;
+}
+
+
+#main-cotents-one {
+	padding: 0;
+}
+
+
+#main-contents-two {
+    height: 504px;
+}
+
+
+/*/////form///////*/
+
+.main-form {
+	height: 434px;
+}
+
+.form-header {
+	padding-bottom: 26px;
+}
+
+.section-header {
+	text-align: center;
+    font-weight: normal;
+    margin: 29px 0;
+}
+
+.form-text {
+	margin-top: 0rem;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+.no-mobile {
+    display: none;
+}
+
+p.footer-bottom-maintext {
+    font-size: 0.9rem;
+    color: grey;
+    font-weight: 500;
+    border-bottom: solid 1px;
+    margin-bottom: 0;
+}
+
+
+.brand-logo {
+	height: 17px;
+    max-width: 22px;
+    margin-left: -10px;
+    margin-top: 36px;
+}
